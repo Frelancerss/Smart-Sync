@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">SmartSync</string>
+    <string name="contactos">Contactos</string>
+    <string name="fotosyvideos"><![CDATA[Fotos & Videos]]></string>
+    <string name="musica">Musica</string>
+    <string name="calendario">Calendario</string>
+    <string name="email">Cuentas e-Mail</string>
 </resources>
